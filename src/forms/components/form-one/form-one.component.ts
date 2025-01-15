@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import {TypedFormBuilder} from '../../typed-form-builder';
-import {Validators} from '@angular/forms';
 
 @Component({
   selector: 'app-form-one',
